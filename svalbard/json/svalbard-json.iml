@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/resources" type="java-test-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="svalbard" />
+    <orderEntry type="module" module-name="faroe-annotations" />
+    <orderEntry type="library" name="Maven: com.google.code.findbugs:jsr305:3.0.2" level="project" />
+    <orderEntry type="module" module-name="svalbard-json-common" />
+    <orderEntry type="library" name="Maven: com.github.fge:json-schema-validator:2.2.6" level="project" />
+    <orderEntry type="library" name="Maven: com.googlecode.libphonenumber:libphonenumber:6.2" level="project" />
+    <orderEntry type="library" name="Maven: javax.mail:mailapi:1.4.3" level="project" />
+    <orderEntry type="library" name="Maven: net.sf.jopt-simple:jopt-simple:4.6" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: javax.activation:activation:1.1.1" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-core:2.10.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.github.spotbugs:spotbugs-annotations:3.1.12" level="project" />
+    <orderEntry type="module" module-name="janmayen" />
+    <orderEntry type="library" name="Maven: com.neovisionaries:nv-i18n:1.27" level="project" />
+    <orderEntry type="module" module-name="faroe-utils" />
+    <orderEntry type="module" module-name="shetland" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.slf4j:jcl-over-slf4j:1.7.30" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpcore:4.4.13" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpclient:4.5.11" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: commons-codec:commons-codec:1.14" level="project" />
+    <orderEntry type="library" name="Maven: commons-lang:commons-lang:2.6" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.10.2" level="project" />
+    <orderEntry type="library" name="Maven: com.google.guava:guava:28.2-jre" level="project" />
+    <orderEntry type="library" name="Maven: com.google.guava:failureaccess:1.0.1" level="project" />
+    <orderEntry type="library" name="Maven: com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava" level="project" />
+    <orderEntry type="library" name="Maven: org.checkerframework:checker-qual:2.10.0" level="project" />
+    <orderEntry type="library" name="Maven: com.google.errorprone:error_prone_annotations:2.3.4" level="project" />
+    <orderEntry type="library" name="Maven: com.google.j2objc:j2objc-annotations:1.3" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.30" level="project" />
+    <orderEntry type="library" name="Maven: org.locationtech.jts:jts-core:1.16.1" level="project" />
+    <orderEntry type="library" name="Maven: joda-time:joda-time:2.10.5" level="project" />
+    <orderEntry type="library" name="Maven: javax.inject:javax.inject:1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.mockito:mockito-core:3.2.4" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: net.bytebuddy:byte-buddy:1.10.5" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: net.bytebuddy:byte-buddy-agent:1.10.5" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.objenesis:objenesis:2.6" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.slf4j:slf4j-simple:1.7.30" level="project" />
+    <orderEntry type="library" name="Maven: com.github.fge:jackson-coreutils:1.8" level="project" />
+    <orderEntry type="library" name="Maven: com.github.fge:msg-simple:1.1" level="project" />
+    <orderEntry type="library" name="Maven: com.github.fge:btf:1.2" level="project" />
+    <orderEntry type="library" name="Maven: commons-io:commons-io:2.6" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.10.2" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.xmlbeans:xmlbeans:3.1.0" level="project" />
+    <orderEntry type="library" name="Maven: stax:stax-api:1.0.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.junit.jupiter:junit-jupiter-api:5.6.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.apiguardian:apiguardian-api:1.1.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.opentest4j:opentest4j:1.2.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.junit.platform:junit-platform-commons:1.6.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.junit.jupiter:junit-jupiter-engine:5.6.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.junit.platform:junit-platform-engine:1.6.0" level="project" />
+    <orderEntry type="library" name="Maven: org.hamcrest:hamcrest:2.2" level="project" />
+    <orderEntry type="module" module-name="svalbard-json-common" scope="TEST" production-on-test="" />
+    <orderEntry type="module" module-name="svalbard" scope="TEST" production-on-test="" />
+    <orderEntry type="module" module-name="svalbard-xmlbeans" scope="TEST" />
+    <orderEntry type="module" module-name="svalbard-xmlstream" scope="TEST" />
+    <orderEntry type="module" module-name="shetland-rdf" scope="TEST" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.apache.jena:jena-arq:3.14.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.apache.jena:jena-shaded-guava:3.14.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: com.github.jsonld-java:jsonld-java:0.12.5" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.apache.httpcomponents:httpclient-cache:4.5.10" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.apache.thrift:libthrift:0.13.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: javax.annotation:javax.annotation-api:1.3.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.apache.jena:jena-core:3.14.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.apache.jena:jena-iri:3.14.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: commons-cli:commons-cli:1.4" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.apache.jena:jena-base:3.14.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.apache.commons:commons-csv:1.7" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: com.github.andrewoma.dexx:collection:0.7" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.n52.sensorweb:52n-xml-gml-v311:2.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.n52.sensorweb:52n-xml-gml-v321:2.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.n52.sensorweb:52n-xml-filter-v20:2.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.n52.sensorweb:52n-xml-sweCommon-v20:2.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.n52.sensorweb:52n-xml-sweCommon-v101:2.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.n52.sensorweb:52n-ogc-schema:2.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.n52.sensorweb:52n-xml-swes-v20:2.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.n52.sensorweb:52n-xml-wsn-v13:2.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.n52.sensorweb:52n-xml-wsrf-v12:2.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.n52.sensorweb:52n-xml-sensorML-v101:2.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.n52.sensorweb:52n-xml-sensorML-v20:2.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.n52.sensorweb:52n-xml-gmd-v20120713:2.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.n52.sensorweb:52n-xml-xlink-v110:2.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.n52.sensorweb:52n-xml-gco-v20120713:2.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.n52.sensorweb:52n-xml-sosgda-v10:2.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.n52.sensorweb:52n-xml-om-v100:2.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.n52.sensorweb:52n-xml-om-v20:2.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.n52.sensorweb:52n-xml-sampling-v100:2.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.n52.sensorweb:52n-xml-sampling-v20:2.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.n52.sensorweb:52n-xml-ows-v110:2.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.n52.sensorweb:52n-xml-sos-v20:2.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.n52.sensorweb:52n-xml-sos-v100:2.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.n52.sensorweb:52n-xml-soap-v12:2.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.n52.sensorweb:52n-xml-timeseriesML-v10:2.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.n52.sensorweb:52n-xml-wsa-v10:2.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.n52.sensorweb:52n-xml-waterML-v20:2.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.n52.sensorweb:52n-xml-waterML-dr-v20:2.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.n52.sensorweb:52n-xml-sosdo-v10:2.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.n52.sensorweb:52n-xml-sosdo-v20:2.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.n52.sensorweb:52n-xml-sosgda-v20:2.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.n52.sensorweb:52n-xml-sosro-v10:2.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.n52.sensorweb:52n-xml-sosrf-v10:2.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.n52.sensorweb:52n-xml-sosrf-v20:2.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.n52.sensorweb:52n-xml-sossf-v10:2.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.n52.sensorweb:52n-xml-ifoi-v10:2.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.n52.sensorweb:52n-xml-drt-v100:2.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.n52.sensorweb:52n-xml-gwml-v22:2.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.n52.sensorweb:52n-xml-cv-v022:2.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.n52.sensorweb:52n-xml-gml-v33:2.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.n52.sensorweb:52n-xml-gmlcov-v10:2.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.n52.sensorweb:52n-xml-inspire-ompr-v30:2.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.n52.sensorweb:52n-xml-portele:2.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.n52.sensorweb:52n-xml-inspire-base2-v20:2.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.n52.sensorweb:52n-xml-inspire-ad-v40:2.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.n52.sensorweb:52n-xml-inspire-au-v40:2.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.n52.sensorweb:52n-xml-inspire-bu-base-v40:2.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.n52.sensorweb:52n-xml-inspire-cp-v40:2.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.n52.sensorweb:52n-xml-inspire-gn-v40:2.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.n52.sensorweb:52n-xml-inspire-tn-v40:2.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.n52.sensorweb:52n-xml-inspire-net-v40:2.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.n52.sensorweb:52n-xml-inspire-base-v33:2.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.n52.sensorweb:52n-xml-inspire-omso-v301:2.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.n52.sensorweb:52n-xml-inspire-omor-v30:2.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.n52.sensorweb:52n-xml-inspire-ef-v40:2.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.apache.xmlbeans:xmlbeans-xpath:2.6.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: net.sf.saxon:Saxon-HE:9.9.1-6" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: xmlunit:xmlunit:1.6" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.reflections:reflections:0.9.12" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.javassist:javassist:3.26.0-GA" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: javax.servlet:javax.servlet-api:4.0.1" level="project" />
+    <orderEntry type="library" name="Maven: com.github.fge:json-schema-core:1.2.5" level="project" />
+    <orderEntry type="library" name="Maven: com.github.fge:uri-template:0.9" level="project" />
+    <orderEntry type="library" name="Maven: org.mozilla:rhino:1.7R4" level="project" />
+  </component>
+</module>
